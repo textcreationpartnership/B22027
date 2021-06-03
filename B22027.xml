@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from both Houses of Parliament to His Excellence the Earle of Essex lord generall of the army for the King and Parliament also certain articles which passed between the King and both Houses : with the resolution and protestation of the county of Yorke and Lincolne to stand for the King and Parliament to maintain the true Protestant religion.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22027</idno><idno type="EEBO-CITATION">12299366</idno>
+  <idno type="VID">197724</idno>
+  <idno type="EEBO-PROQUEST">2240963258</idno>
+  
+            <idno type="STC">Wing E1627</idno>
+            <idno type="OCLC">12299366</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E121, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from both Houses of Parliament to His Excellence the Earle of Essex lord generall of the army for the King and Parliament also certain articles which passed between the King and both Houses : with the resolution and protestation of the county of Yorke and Lincolne to stand for the King and Parliament to maintain the true Protestant religion.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joh. Franc.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Octob. 11, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197724:1"/>
+            <pb facs="tcp:197724:1"/>
+            <p> A LETTER Sent from Both Houses of PARLIAMENT, to his EXCELLENCE, The Earle of <hi>Essex,</hi> Lord generall of the Army for the <hi>King</hi> and Parliament.</p>
+            <p>ALSO <hi>Certain Articles which passed between the</hi> King <hi>and both Houses.</hi>
+            </p>
+            <p>WITH The Resolution and Protestation of the County of <hi>Yorke</hi> and <hi>Lincolne,</hi> to stand for the King and Parliament to main<g ref="char:EOLhyphen"/>tain the true Protestant Religion.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Ordered by the Lords and Commons in Parliament that this Prote<g ref="char:EOLhyphen"/>station be printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elsinge Cler: Parl: D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Joh. Franc. Octob,</hi> 11. 1642.</p>
+            <pb facs="tcp:197724:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197724:2"/>
+            <head>ALETTER sent from both Houses of Parliament, to his Excellence, the Earle <hi>of</hi> ESSEX, <hi>Lord Generall of the Army for the King and Parliament.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat considering the many unhappy distractions lately growne in Church and Common wealth, through the malitiou practice of a mavignant par<g ref="char:EOLhyphen"/>ty, labouring to breed Jealousies betwen the King and his People; wee are inforced to expresse in this our humble Declaration our desires and resolutions to spend our lives and estates in defence of hrs Majesties Person, the true Protestant Religion, the peace of the Realme, the maintenance of the Rights and Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, the Lawes of the Land, and the lawfull liberties of the Subjects; according to our late Protestation a<g ref="char:EOLhyphen"/>gainst all such as shall attempt to seperate his Majesty from his great and faithfull Councell of Parliament, and by that meanes to alienate his Majesties affection from his loyall subjects. And this our Declaration we humbly desire your Lordship to represent from us to the High and honourable Court of Parliament.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:197724:3"/>
+            <head>
+               <hi>To the right Honorable, the Lords and Commons</hi> in Parliament assembled: The humble Petition of the Gentry, Ministers, Free<g ref="char:EOLhyphen"/>holders, and other Inhabitants of the County of <hi>Yorke,</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat they cannot be afraid themselves or any other shall incurre your displeasure, for declaring their just feares in an humble way, or representing that these generall distractions have a more powerfull influence upon this particular County, then upon any other part of the Kingdome; and the many inconveniences that we have endured, doe make us already sensible of more dan<g ref="char:EOLhyphen"/>gerous effects then hath hitherto befallen us; and from thence, apprehending the greatest of Calamities to fol<g ref="char:EOLhyphen"/>low, unlesse God blessing and a speedy union doe hap<g ref="char:EOLhyphen"/>pily prevent them; we are bold, in all humility to Pe<g ref="char:EOLhyphen"/>tition that a timely remedy may be applied, lest our dis<g ref="char:EOLhyphen"/>ease grow despirate, past eure, without such applicati<g ref="char:EOLhyphen"/>on, as may indanger the vitall spirits of the Kingdome: that such regard may be had to his Majesties Honour, together with the faith of the Kingdome, as may evidence to all the worly that nothing is deerer to us then the se<g ref="char:EOLhyphen"/>curity and giory of our King and Kingdome, whose honour and reputation both at home and abroade must stand and fall together. That wee may not be distracted by contrary commands, but that the knowne lawe of the Land, which wee humbly conceive is the fundamentall liberty of the Subjects, and noe arbitrary government may be the rule of our obedience, and the guide and determiner of all our actions and differences. And wee according to our alegiance shall be ready to maintaine his Majesties royall Person, Crowne and Dignity, his
+<pb facs="tcp:197724:3"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ust rights and prerogative, together with the lawfull <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>riviledges of Parlaiment, the just liberty of the subjects, the true Protestant profession, and the peace of the Land.</p>
+         </div>
+         <div type="proposition">
+            <head>Propositions for accommodation for the Composing of the present Differences <hi>botweene his Majesty and the PARLIAMENT.</hi>
+            </head>
+            <p n="1">1. IT Plainly appearing by a Declarition made in Parliment, that the Commission of Array is against the Laws and statutes of this Kingdome; and that his Majesty is graciously pleased to declare his resolution to governe his people onely by the Law: that his Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y would be now pleased, for the more apparant expres<g ref="char:EOLhyphen"/>ssion of that his royall purpose to recal his said Commi<g ref="char:EOLhyphen"/>ssion and all instructions and commands which have been given therein.</p>
+            <p n="2">2 His Majesty having acknowledged that in these times of danger, the proposition made unto him by both Houses of Parliament, for the setling of the Ma<g ref="char:EOLhyphen"/>litia very fit, theredy to put the Kingdome into a posture of defence, and hath also approved of such persons for the ordering ordering of the same, who have been nominated by the Parliament, that he would be graciously pleased to give his royal assent to an Act of Parliament, for the establishing thereof, for two yeers space, which after may be continued, or laid downe, as the necessity of the time shall then require.</p>
+            <p n="3">3 That all such persons so nominated by the Par<g ref="char:EOLhyphen"/>liament, and approved of by his Majesty, to be Lievte<g ref="char:EOLhyphen"/>nants in every County for the ordering of the Mili<g ref="char:EOLhyphen"/>tia, may receive their Commissions onely from his
+<pb facs="tcp:197724:4"/> Majesty, with a proviso, that they shall not be displa<g ref="char:EOLhyphen"/>ced, nor their power taken from them, but by consent of Parliament, thereby to preserve the honour of his Majesty, and also to remove all doubts and feares from his Subjects.</p>
+            <p n="4">4 That no Commissions for the Array or Militia which have beene made or given by the King or Par<g ref="char:EOLhyphen"/>liament, may be further executed, but that all Armes shall be laid downe untill the Militia be setled by Act of Parliament.</p>
+            <p n="5">5 That a generall hardon may be granted, in such manner as his Majesty hath beene graciously pleased to offer unto all his Subjects.</p>
+            <p n="6">6 That a particular Declaration in that Act may be made, that neither Sir <hi>John Hotham,</hi> nor any other person shall be questioned for any Act done in obedi<g ref="char:EOLhyphen"/>ence to the directions and command of both Houses of Parliament, or which hath beene since allowed and approved of by them.</p>
+            <p n="7">7 That that the Towne of <hi>Hull,</hi> with all the Arms and Amunition removed from them, may be delive<g ref="char:EOLhyphen"/>red into the actuall and peaceable possession of his Majesty; and that his Majesty would be then pleased to commit the government therof with the said Arms, unto such other person which both Houses of Parlia<g ref="char:EOLhyphen"/>ment shall nominate. And that no such Governour shall be displaced, nor the Armes removed, but by consent of Parliament. And that <hi>Newcastle</hi> and all other Townes of strength may be in like manner dis<g ref="char:EOLhyphen"/>posed of.</p>
+            <p n="8">8 That all the Lords and members of the House of Commons that are now with the King, shall presently repaire to their severall houses, and not be questioned for their absence.</p>
+            <p n="9">
+               <pb facs="tcp:197724:4"/> 9 That his Majesty would be pleased to turne againe to <hi>Whitehall,</hi> or some other place neere his City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> there to make his residence, as formerly he hath don; thereby to revive the dejected hearts of his afflicted sub<g ref="char:EOLhyphen"/>jects, who have thus unhappily been deprived of the com<g ref="char:EOLhyphen"/>fort and honour of his royall presence.</p>
+            <p n="10">10 That all distractions and misapprehensions may be removed, by the happy concurrence of his Majesty with the Parliament, whereby such good Lawes may be made as may conduce to the establishing of a setled peace in the whole State.</p>
+            <p n="11">11 That the reliefe of the distressed Protestants, his Majesties faithfull and loyall subjects in <hi>Ireland</hi> may be speedily resolved on, and their wants supplied, for the suppessing of the Rebels, Papists, in that Kingdome.</p>
+            <p n="12">12 That all abuses in the Church may be removed in a more perfect Reformation, in Discipline and Cere<g ref="char:EOLhyphen"/>monies, by an Assembly of such learned Divines as shall be named to that purpose by both Houses of Parliament</p>
+         </div>
+         <div type="text">
+            <head>The Earle of ESSEX his Instructions for <hi>Englands</hi> safety.</head>
+            <p n="1">1 That the safest and surest defence of this King<g ref="char:EOLhyphen"/>dome is our Navie, and that we can never be hurt by Land by a forraigne Enemy, unlesse we are first beaten at sea.</p>
+            <p n="2">2 That the favouring and cherishing of souldiers, will be no small security to this Kingdome.</p>
+            <p n="3">3 A sweet harmony betwixt a loving Prince and loyall subjects.</p>
+            <p n="4">4 A sweet reprehension of the superfluous expence
+<pb facs="tcp:197724:5"/> of these times, which if some course were taken therein to limit them, it would make much to the generall good of this Common-wealth.</p>
+            <p n="5">5 Lastly, if his Majesty would reserve the places pro<g ref="char:EOLhyphen"/>perly belonging to the wars, whereof he hath the fewest of any great Prince in christendom; as the governments of his Isles, the keeping of the Fores &amp; Castles and places of command in <hi>Zeland</hi> only for souldiers, and men sound in Religion: It would be a great encouragement to his Subjects to follow the wars, to enable themselves to doe him service, though to their cost and charge, when they have to hope thar though they serve a strange Prince or state, to their no advantag, yet thereby enabling them<g ref="char:EOLhyphen"/>selves to doe their owne King servace, they may in time be provided for in their owne Country, whereas if char<g ref="char:EOLhyphen"/>ges of commands, advancement of honour may be had better cheap by staying at home there will but few ever take the paines and labour.</p>
+            <p>His Excellency the Earl of <hi>Essex</hi> sent a Letter to the Earl of <hi>Dorset</hi> desiring his advice how hee might use the best meanes to present the Petition of both houses of Parliament to his Majesty in an humble manner, and that those that should be imployd therin might have ac<g ref="char:EOLhyphen"/>cesse to his Majasty and safe conduct; and the said Earl of <hi>Dorset</hi> acquainting his Majesty therewith, his Majestie answered that his eares should be alwaies open to any Petitioner, but that came from his Parliament, but hee would not receive any Petition from the hands of any that hee had proclaimed traiters.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:197724:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
